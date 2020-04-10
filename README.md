@@ -5,14 +5,14 @@ You need to have python3 and scapy<br>
 ```sudo apt-get install python3```<br>
 ```sudo apt-get install python3-pip```<br>
 ```pip3 install scapy```<br>
-or
+or<br>
 ```wget https://www.python.org/ftp/python/3.6.3/Python-3.6.3.tgz ```<br>
 ```tar zxvf Python-3.7.0tgz```<br>
 ```cd Python-3.7.0```<br>
 ```．/configure --prefix=/usr/local/python3.7```<br>
 ```make```<br>
 ```make install```<br>
-and finally<br>
+and finally<br><br>
 ```python3 main.py```<br>
 if you want more attack<br>
 ```./ddos.sh```<br>
